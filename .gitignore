@@ -1,3 +1,4 @@
 .alpackages/*.app
 table/*.app
 *.dep.app
+table/
